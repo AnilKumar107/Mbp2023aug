@@ -25,7 +25,7 @@ pipeline {
 	   
           steps {
                sh """
-               echo "Deploying the Code"
+               echo "Deploying  the Code"
 			   """
                
           }
